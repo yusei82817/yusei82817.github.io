@@ -4,6 +4,4 @@
 HTMLコードの入力は基本自分。
 曲は8曲まで重ねられるよう設定。
 # game
-
-
-[Uploading リュトモスFGJK.zip…]()
+[音ゲー零式.html]
